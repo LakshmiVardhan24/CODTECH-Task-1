@@ -6,7 +6,10 @@ Duration: AUGUST30th, 2024 to SEPTEMBER 30th, 2024.
 Mentor: Neela Santhosh Kumar 
 
 Overview of Verilog Logic Gates Project
-Objective
+
+
+Objective:
+
 The objective of this project is to have basic digital logic circuits designed, implemented, and simulated using Verilog hardware description language (HDL) and ModelSim simulation software. A comprehensive understanding of digital logic design is aimed to be provided, including the creation of various logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) and combinational circuits (such as adders and multiplexers). By the end of the project, the functionality of these circuits is to be verified through simulation and waveform analysis.
 
 Designing Logic Gates:
